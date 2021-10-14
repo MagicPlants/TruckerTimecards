@@ -4,3 +4,5 @@ Timecard for Truckers, mainly to calculate their mileage and stops but also to i
 so it only asks you for those variables next time you enter that profiles details.
 
 Autofill/autocomplete and tabindex navigation to speed it up even further
+
+AJAX/jQuery, PHP, and SQL
